@@ -10,7 +10,7 @@ const NavBar = () => {
       </div>
       <div className="flex items-center justify-center gap-20">
         <div className="h-[21px] w-[298px] border-[1px] border-[#ADBFEE] rounded-2xl"></div>
-        <ul className="flex items-center justify-center gap-20 text-[#373737] text-[16px] font-normal navText">
+        <ul className="flex items-center justify-center gap-20 text-[#373737] text-[16px] font-normal roboto">
           <li>Project Tracking</li>
           <li>Financial Management</li>
           <li> Client Management</li>

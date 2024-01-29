@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.navText {
+.roboto {
   font-family: "Roboto", sans-serif;
   line-height: normal;
 }
