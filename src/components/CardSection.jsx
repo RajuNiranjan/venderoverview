@@ -1,6 +1,6 @@
 import React from "react";
 import GraphCard from "./GraphCard";
-import Card from "../ui/card";
+import Card from "../ui/CardUI";
 
 const CardSection = () => {
   return (
